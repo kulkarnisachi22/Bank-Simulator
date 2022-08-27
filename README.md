@@ -12,5 +12,5 @@ Once logged in, the user can do the following operations -
 (3) Fund Transfer:
     The entered amount of money is taken out of the user's account and added to entered receiver's account.
     
-After the successful execution of the either of the above mentioned operations, a bill is generated.
+After the successful execution of the either of the above mentioned operations, a bill receipt is generated.
 
